@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"syscall"
 
-	"github.com/jxo-me/rabbitmq-go"
+	"github.com/168yy/rabbitmq-go"
 )
 
 func fib(n int) int {

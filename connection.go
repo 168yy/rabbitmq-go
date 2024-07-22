@@ -2,7 +2,7 @@ package rabbitmq
 
 import (
 	"context"
-	"github.com/jxo-me/rabbitmq-go/internal/connectionmanager"
+	"github.com/168yy/rabbitmq-go/internal/connectionmanager"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

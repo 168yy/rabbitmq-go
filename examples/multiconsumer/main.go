@@ -9,7 +9,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/jxo-me/rabbitmq-go"
+	"github.com/168yy/rabbitmq-go"
 )
 
 func main() {

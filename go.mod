@@ -1,4 +1,4 @@
-module github.com/jxo-me/rabbitmq-go
+module github.com/168yy/rabbitmq-go
 
 go 1.18
 

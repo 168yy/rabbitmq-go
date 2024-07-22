@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jxo-me/rabbitmq-go/internal/dispatcher"
-	"github.com/jxo-me/rabbitmq-go/internal/logger"
+	"github.com/168yy/rabbitmq-go/internal/dispatcher"
+	"github.com/168yy/rabbitmq-go/internal/logger"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 
